@@ -1,9 +1,9 @@
 {
   "name": "Tomato.es",
   "description": "Pomodoro technique tool",
-  "launch_path": "/",
+  "launch_path": "http://tomato.es/",
   "icons": {
-    "128": "/img/icon-128.png"
+    "128": "tomatoes_logo_128.png"
   },
   "developer": {
     "name": "Piotr Jaszczyk",
@@ -11,3 +11,4 @@
   },
   "default_locale": "en"
 }
+
